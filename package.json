@@ -1,0 +1,13 @@
+{
+  "name": "Minimalist Node.js app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "",
+  "repository": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "engines": {}
+}

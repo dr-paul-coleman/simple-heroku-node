@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "description": "",
+  "success_url": "/",
+  "scripts": {
+    "postdeploy": "echo 'restarting'"
+  }
+}

@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# IDE settings
+.idea/
+IlluminatedCloud/
+.DS_Store
+.project/
+.settings/
+.vscode/
+
